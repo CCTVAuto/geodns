@@ -6,7 +6,7 @@
 
 * Purpose: Allow VPS that cannot watch streaming media to watch (prerequisite: one of the VPS must be able to watch streaming media).
 
-* Features: The script unlocks `Netflix Hulu HBO`[etc.](https://github.com/myxuchangbin/dnsmasq_sniproxy_install/blob/master/proxy-domains.txt) by default. If you need to add or delete streaming domain names, please edit the file`/etc /dnsmasq.d/custom_netflix.conf` and `/etc/sniproxy.conf`
+* Features: The script unlocks `Netflix Hulu HBO`[etc.](https://github.com/NevermoreSSH/geodns/blob/master/proxy-domains.txt) by default. If you need to add or delete streaming domain names, please edit the file`/etc /dnsmasq.d/custom_netflix.conf` and `/etc/sniproxy.conf`
 
 * Script support system: CentOS6+, Debian8+, Ubuntu16+
      * Theoretically supports the above systems and does not limit virtualization types. If you have any questions, please provide feedback.
@@ -28,17 +28,17 @@
 
 ### Quick installation (recommended):
 ```Bash
-wget --no-check-certificate -O dnsmasq_sniproxy.sh https://raw.githubusercontent.com/myxuchangbin/dnsmasq_sniproxy_install/master/dnsmasq_sniproxy.sh && bash dnsmasq_sniproxy.sh -f
+wget --no-check-certificate -O dnsmasq_sniproxy.sh https://raw.githubusercontent.com/NevermoreSSH/geodns/master/dnsmasq_sniproxy.sh && bash dnsmasq_sniproxy.sh -f
 ```
 
 ### Normal installation:
 ```Bash
-wget --no-check-certificate -O dnsmasq_sniproxy.sh https://raw.githubusercontent.com/myxuchangbin/dnsmasq_sniproxy_install/master/dnsmasq_sniproxy.sh && bash dnsmasq_sniproxy.sh -i
+wget --no-check-certificate -O dnsmasq_sniproxy.sh https://raw.githubusercontent.com/NevermoreSSH/geodns/master/dnsmasq_sniproxy.sh && bash dnsmasq_sniproxy.sh -i
 ```
 
 ### Uninstall method:
 ```Bash
-wget --no-check-certificate -O dnsmasq_sniproxy.sh https://raw.githubusercontent.com/myxuchangbin/dnsmasq_sniproxy_install/master/dnsmasq_sniproxy.sh && bash dnsmasq_sniproxy.sh -u
+wget --no-check-certificate -O dnsmasq_sniproxy.sh https://raw.githubusercontent.com/NevermoreSSH/geodns/master/dnsmasq_sniproxy.sh && bash dnsmasq_sniproxy.sh -u
 ```
 
 ### Instructions:
