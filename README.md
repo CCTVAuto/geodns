@@ -15,8 +15,8 @@
 ### Script usage:
 
      bash dnsmasq_sniproxy.sh [-h] [-i] [-f] [-id] [-fd] [-is] [-fs] [-u] [-ud] [-us]
-       -h , --help display help information
-       -i , --install install Dnsmasq + SNI Proxy
+       -h , --help Display Help Information
+       -i , --install Install Dnsmasq + SNI Proxy
        -f , --fastinstall Quickly install Dnsmasq + SNI Proxy
        -id, --installdnsmasq Install only Dnsmasq
        -fd, --installdnsmasq Quickly install Dnsmasq
