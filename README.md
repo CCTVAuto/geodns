@@ -15,14 +15,14 @@
 ### Script usage:
 
      bash dnsmasq_sniproxy.sh [-h] [-i] [-f] [-id] [-fd] [-is] [-fs] [-u] [-ud] [-us]
-       -h,   --help display help information
-       -i,   --install install Dnsmasq + SNI Proxy
-       -f,   --fastinstall Quickly install Dnsmasq + SNI Proxy
+       -h ,  --help display help information
+       -i ,  --install install Dnsmasq + SNI Proxy
+       -f ,  --fastinstall Quickly install Dnsmasq + SNI Proxy
        -id,  --installdnsmasq Install only Dnsmasq
        -fd,  --installdnsmasq Quickly install Dnsmasq
        -is,  --installsniproxy Install only SNI Proxy
        -fs,  --fastinstallsniproxy Quickly install SNI Proxy
-       -u,   --uninstall Uninstall Dnsmasq + SNI Proxy
+       -u ,  --uninstall Uninstall Dnsmasq + SNI Proxy
        -ud,  --undnsmasq Uninstall Dnsmasq
        -us,  --unsniproxy Uninstall SNI Proxy
 
