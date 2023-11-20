@@ -28,17 +28,17 @@
 
 ### Quick installation (recommended):
 ```Bash
-wget --no-check-certificate -O dnsmasq_sniproxy.sh https://raw.githubusercontent.com/myxuchangbin/dnsmasq_sniproxy_install/master/dnsmasq_sniproxy.sh && bash dnsmasq_sniproxy.sh -f
+wget --no-check-certificate -O dnsmasq_sniproxy.sh https://raw.githubusercontent.com/NevermoreSSH/geodns/main/dnsmasq_sniproxy.sh && bash dnsmasq_sniproxy.sh -f
 ```
 
 ### Normal installation:
 ```Bash
-wget --no-check-certificate -O dnsmasq_sniproxy.sh https://raw.githubusercontent.com/myxuchangbin/dnsmasq_sniproxy_install/master/dnsmasq_sniproxy.sh && bash dnsmasq_sniproxy.sh -i
+wget --no-check-certificate -O dnsmasq_sniproxy.sh https://raw.githubusercontent.com/NevermoreSSH/geodns/main/dnsmasq_sniproxy.sh && bash dnsmasq_sniproxy.sh -i
 ```
 
 ### Uninstall method:
 ```Bash
-wget --no-check-certificate -O dnsmasq_sniproxy.sh https://raw.githubusercontent.com/myxuchangbin/dnsmasq_sniproxy_install/master/dnsmasq_sniproxy.sh && bash dnsmasq_sniproxy.sh -u
+wget --no-check-certificate -O dnsmasq_sniproxy.sh https://raw.githubusercontent.com/NevermoreSSH/geodns/main/dnsmasq_sniproxy.sh && bash dnsmasq_sniproxy.sh -u
 ```
 
 ### Instructions:
