@@ -6,7 +6,7 @@
 
 * Purpose: Allow VPS that cannot watch streaming media to watch (prerequisite: one of the VPS must be able to watch streaming media).
 
-* Features: The script unlocks `Netflix Hulu HBO`[etc.](https://github.com/myxuchangbin/dnsmasq_sniproxy_install/blob/master/proxy-domains.txt) by default. If you need to add or delete streaming domain names, please edit the file`/etc /dnsmasq.d/custom_netflix.conf` and `/etc/sniproxy.conf`
+* Features: The script unlocks `Netflix Hulu HBO`[etc.](https://github.com/NevermoreSSH/geodns/blob/main/proxy-domains.txt) by default. If you need to add or delete streaming domain names, please edit the file`/etc /dnsmasq.d/custom_netflix.conf` and `/etc/sniproxy.conf`
 
 * Script support system: CentOS6+, Debian8+, Ubuntu16+
      * Theoretically supports the above systems and does not limit virtualization types. If you have any questions, please provide feedback.
