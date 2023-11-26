@@ -133,3 +133,4 @@ linearjitp-playback.astro.com.my
 bit.ly
 iili.io
 s.id
+sg-sg-sg.astro.com.my
