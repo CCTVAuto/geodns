@@ -126,6 +126,7 @@ primevideo.info
 primevideo.org
 primevideo.tv
 pv-cdn.net
+
 line.premiumpowers.net
 as-teruk.blogspot.com
 api.ott-nav.com
@@ -133,4 +134,9 @@ linearjitp-playback.astro.com.my
 bit.ly
 iili.io
 s.id
+astrocontent.s3.amazonaws.com
+awak.gay
+staging-linearjitp-playback.astro.com.my
+telegra.ph
+
 sg-sg-sg.astro.com.my
