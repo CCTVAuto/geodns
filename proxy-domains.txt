@@ -140,7 +140,7 @@ awak.gay
 staging-linearjitp-playback.astro.com.my
 telegra.ph
 
-# AstroGO, not fully bypass
+# AstroGO, not fully bypass , test
 sg-sg-sg.astro.com.my
 vod-poster.astro.com.my
 e1dfbea8a6c51508eeb2de87711b83e6b44d10e7.cws.conviva.com
@@ -186,7 +186,7 @@ hf-apix.hotstar.com
 apix.hotstar.com
 bifrost-api.hotstar.com
 
-## IQYI
+## IQYI , test
 www.iq.com
 
 ## VIU
@@ -203,7 +203,7 @@ mytnbapp.tnb.com.my
 sitecore.tnb.com.my	
 api.mytnb.com.my
 
-#Spotify
+#Spotify , test
 open.spotify.com
 accounts.spotify.com
 apresolve.spotify.com
