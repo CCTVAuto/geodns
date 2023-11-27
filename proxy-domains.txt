@@ -140,7 +140,7 @@ awak.gay
 staging-linearjitp-playback.astro.com.my
 telegra.ph
 
-# AstroGO
+# AstroGO, not fully bypass
 sg-sg-sg.astro.com.my
 vod-poster.astro.com.my
 e1dfbea8a6c51508eeb2de87711b83e6b44d10e7.cws.conviva.com
