@@ -127,7 +127,7 @@ primevideo.org
 primevideo.tv
 pv-cdn.net
 
-# ott pondantv
+
 line.premiumpowers.net
 as-teruk.blogspot.com
 api.ott-nav.com
@@ -140,7 +140,7 @@ awak.gay
 staging-linearjitp-playback.astro.com.my
 telegra.ph
 
-# AstroGO, not fully bypass , test
+
 sg-sg-sg.astro.com.my
 vod-poster.astro.com.my
 e1dfbea8a6c51508eeb2de87711b83e6b44d10e7.cws.conviva.com
@@ -149,7 +149,7 @@ sg1.wzrkt.com
 linearjitp02-playback.astro.com.my
 www.google.com
 
-# loklok
+ 
 www.loklok.com
 loklok.com
 app.loklok.com
@@ -169,7 +169,7 @@ h5.loklok.tv
 hw-cdn-play.loklok.tv
 loklok.video
 
-# tonton
+ 
 www.tonton.com.my
 watch.tonton.com.my
 mobile.tonton.com.my
@@ -178,7 +178,7 @@ tonton-mhq-clientevents-77hkvqd3tq-as.a.run.app
 analytics-forwarder.mediaprima-prod.switch.tv
 live-sg1.global.ssl.fastly.net
 
-# Disney+ hostar
+ 
 www.hotstar.com
 api.hotstar.com
 secure-media.hotstar.com
@@ -186,10 +186,10 @@ hf-apix.hotstar.com
 apix.hotstar.com
 bifrost-api.hotstar.com
 
-## IQYI , test
+ 
 www.iq.com
 
-## VIU
+ 
 www.viu.com
 prod-in.viu.com
 um.viuapi.io
@@ -198,12 +198,12 @@ rewardpoint.viuapi.io
 static.viu.com
 s3-ap-southeast-1.amazonaws.com
 
-## TNB
+ 
 mytnbapp.tnb.com.my
 sitecore.tnb.com.my	
 api.mytnb.com.my
 
-#Spotify , test
+ 
 open.spotify.com
 accounts.spotify.com
 apresolve.spotify.com
