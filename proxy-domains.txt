@@ -166,7 +166,7 @@ hw-cdn-play.loklok.tv
 loklok.video
 
 mytnbapp.tnb.com.my
-sitecore.tnb.com.my	
+sitecore.tnb.com.my
 api.mytnb.com.my
 
 www.tonton.com.my
