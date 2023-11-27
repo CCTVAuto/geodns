@@ -192,3 +192,4 @@ um.viuapi.io
 consumerdetails.viu.com
 rewardpoint.viuapi.io
 static.viu.com
+s3-ap-southeast-1.amazonaws.com
