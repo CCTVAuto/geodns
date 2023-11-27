@@ -145,6 +145,7 @@ e1dfbea8a6c51508eeb2de87711b83e6b44d10e7.cws.conviva.com
 linear-poster.astro.com.my
 sg1.wzrkt.com
 linearjitp02-playback.astro.com.my
+www.google.com
 
 www.loklok.com
 loklok.com
@@ -193,3 +194,17 @@ consumerdetails.viu.com
 rewardpoint.viuapi.io
 static.viu.com
 s3-ap-southeast-1.amazonaws.com
+
+open.spotify.com
+accounts.spotify.com
+apresolve.spotify.com
+dealer.spotify.com
+clienttoken.spotify.com
+spclient.wg.spotify.com
+audio-ak-spotify-com.akamaized.net
+open.spotify.com
+i.scdn.co
+heads-fa.scdn.co
+login5.spotify.com
+spclient.wg.spotify.com
+gae2-spclient.spotify.com
