@@ -183,7 +183,7 @@ install_dependencies(){
             )
         else
             yum_depends=(
-                git autoconf automake curl gettext-devel libev-devel pcre-devel perl pkgconfig rpm-build udns-devel
+                git automake curl gettext-devel libev-devel pcre-devel perl pkgconfig rpm-build udns-devel
             )
         fi
         for depend in ${yum_depends[@]}; do
