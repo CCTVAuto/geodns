@@ -325,7 +325,7 @@ install_sniproxy(){
         if [ -e sniproxy ]; then
             rm -rf sniproxy
         fi
-        git clone https://github.com/dlundquist/sniproxy.git
+        git clone https://github.com/NevermoreSSH/sniproxy.git
         cd sniproxy
     fi
     if check_sys packageManager yum; then
@@ -341,7 +341,7 @@ install_sniproxy(){
             ./autogen.sh && ./configure && make dist
             if centosversion 6; then
                 scl enable devtoolset-6 'rpmbuild --define "_sourcedir `pwd`" --define "_topdir /tmp/sniproxy/rpmbuild" --define "debug_package %{nil}" -ba redhat/sniproxy.spec'
-                download /etc/init.d/sniproxy https://raw.githubusercontent.com/dlundquist/sniproxy/master/redhat/sniproxy.init && chmod +x /etc/init.d/sniproxy
+                download /etc/init.d/sniproxy https://raw.githubusercontent.com/NevermoreSSH/sniproxy/master/redhat/sniproxy.init && chmod +x /etc/init.d/sniproxy
             elif centosversion 7 || centosversion 8; then
                 sed -i "s/\%configure CFLAGS\=\"-I\/usr\/include\/libev\"/\%configure CFLAGS\=\"-fPIC -I\/usr\/include\/libev\"/" redhat/sniproxy.spec
                 rpmbuild --define "_sourcedir `pwd`" --define "_topdir /tmp/sniproxy/rpmbuild" --define "debug_package %{nil}" -ba redhat/sniproxy.spec
@@ -349,7 +349,7 @@ install_sniproxy(){
             error_detect_depends "yum -y install /tmp/sniproxy/rpmbuild/RPMS/x86_64/sniproxy-*.rpm"
         fi
         if centosversion 6; then
-            download /etc/init.d/sniproxy https://raw.githubusercontent.com/dlundquist/sniproxy/master/redhat/sniproxy.init && chmod +x /etc/init.d/sniproxy
+            download /etc/init.d/sniproxy https://raw.githubusercontent.com/NevermoreSSH/sniproxy/master/redhat/sniproxy.init && chmod +x /etc/init.d/sniproxy
             [ ! -f /etc/init.d/sniproxy ] && echo -e "[${red}Error${plain}] There is a problem downloading the Sniproxy startup file, please check." && exit 1
         elif centosversion 7 || centosversion 8; then
             download /etc/systemd/system/sniproxy.service https://raw.githubusercontent.com/NevermoreSSH/geodns/main/sniproxy.service
